@@ -48,7 +48,15 @@ curl --request POST --data-binary "@D:\your_folder\sample.jpg" http://127.0.0.1:
 @goto :LOOP
 
 ### The HTTP page, example.htm
+Download sample.htm into C:\Program Files\AI Engine.
+You can also find sample.html at C:\Program Files\AI Engine.
+Load sample.htm as private mode in your browser.
+Click Choose button for loading a JPEG file with a number plate.
+Click Submit button for sending the JPEG to GyNet.exe.
 
+![alt tag](https://github.com/LILINOpenGitHub/LILIN-AI-Engine/blob/master/loadfile.jpg?raw=true)
+
+You will see the recognition reply (HTTP) in the browser.
 The result
 ![alt tag](https://github.com/LILINOpenGitHub/LILIN-AI-Engine/blob/master/return.jpg?raw=true)
 
