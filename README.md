@@ -11,6 +11,7 @@ Prepare the following:
 * Download LILIN AI Engine
 * Have a Windows 10 OS machine
 * LILIN IP camera
+* Download cURL (HTTP) client at https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/objectstorage/restrict_rw_accs_cntainers_REST_API/files/installing_curl_command_line_tool_on_windows.html.
 
 Connect all these devices to the network switch.
 
@@ -32,13 +33,23 @@ Connect all these devices to the network switch.
 * Get a license key at https://www.ddnsipcam.com
 * Copy & paste the license key by clicking on ? button.
 * Run AiEngine.exe
-
-### The NVR
-* Make sure that the NVR is within the same subnet as your Raspberry Pi.
-* Modify gv_ipaddress, gv_username, gv_password accordingly for the NVR in app.py.
-
-After above steps, you can start to talk to your Alexa to operate your NVR by saying:
+* You will see a GyNet.exe server running in the background.
 
 # Examples
 
-Alexa, ask my NVR go channel 1
+### The DOS command, curl_dos_command.bat
+You can use cURL (HTTP client) sending sample.jpg to AI Engine
+Go to Example and download curl_dos_command.bat file.
+Download sample.jpg into your PC.
+Modify the directory of "your_folder" if necessary.
+
+curl --request POST --data-binary "@D:\your_folder\sample.jpg" http://127.0.0.1:8592/sendjpeg
+@ping 127.0.0.1 -n 1 > NUL
+@goto :LOOP
+
+### The HTTP page, example.htm
+
+The result
+![alt tag](https://github.com/LILINOpenGitHub/LILIN-AI-Engine/blob/master/return.jpg?raw=true)
+
+
