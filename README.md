@@ -27,12 +27,11 @@ Connect all these devices to the network switch.
 
 # Setup
 
-### Raspberry Pi
-* Install paho-mqtt
-* Copy and paste my Python code
-* Run the Python code as 
-
-sudo python app.py
+### AI Engine
+* Install LILIN AI Engine
+* Get a license key at https://www.ddnsipcam.com
+* Copy & paste the license key by clicking on ? button.
+* Run AiEngine.exe
 
 ### The NVR
 * Make sure that the NVR is within the same subnet as your Raspberry Pi.
