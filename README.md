@@ -1,5 +1,5 @@
 # LILIN AI Engine Sample Code & SDK
-LILIN Windows AI Engine SDK
+LILIN Windows AI Engine SDK for number plate recognition and object recognition
 
 # The Video
 Visit the demo video at 
