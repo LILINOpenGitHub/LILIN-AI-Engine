@@ -57,6 +57,7 @@ Click Submit button for sending the JPEG to GyNet.exe.
 ![alt tag](https://github.com/LILINOpenGitHub/LILIN-AI-Engine/blob/master/loadfile.jpg?raw=true)
 
 You will see the recognition reply (HTTP) in the browser.
+
 The result
 ![alt tag](https://github.com/LILINOpenGitHub/LILIN-AI-Engine/blob/master/return.jpg?raw=true)
 
