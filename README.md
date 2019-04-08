@@ -14,7 +14,7 @@ Prepare the following:
 
 Connect all these devices to the network switch.
 
-![alt tag](https://github.com/chihkanghu/My-Alexa-NVR/blob/master/diagram.png?raw=true)
+![alt tag](https://github.com/LILINOpenGitHub/LILIN-AI-Engine/blob/master/diagram.jpg?raw=true)
 
 # Prerequisites
 
