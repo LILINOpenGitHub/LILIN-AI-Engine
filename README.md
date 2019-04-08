@@ -62,4 +62,6 @@ The result:
 
 ![alt tag](https://github.com/LILINOpenGitHub/LILIN-AI-Engine/blob/master/return.jpg?raw=true)
 
+Visit http://www.meritlilin.com/en/solution/LSolution_AiEngine for more detail.
+
 
