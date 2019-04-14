@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=GaY2qOO1Bvs
 Prepare the following:
 
 * Download LILIN AI Engine at https://www.dropbox.com/sh/43s49yjuvo2iebs/AAAINEue4807mWAO5GVo7DLqa?dl=0.
+* Get a license key at https://www.ddnsipcam.com.
 * Have a Windows 10 OS machine
 * LILIN IP camera
 * Download cURL (HTTP) client at https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/objectstorage/restrict_rw_accs_cntainers_REST_API/files/installing_curl_command_line_tool_on_windows.html.
