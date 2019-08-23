@@ -3,7 +3,7 @@ LILIN Windows AI Engine SDK for number plate recognition and object recognition
 
 # The Video
 Visit the demo video at 
-https://www.youtube.com/watch?v=GaY2qOO1Bvs
+https://www.youtube.com/watch?v=-8YBdj1yHV4
 
 # Getting Started
 Prepare the following:
