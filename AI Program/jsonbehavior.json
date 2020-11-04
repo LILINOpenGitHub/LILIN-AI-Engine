@@ -1,0 +1,153 @@
+﻿{
+    "Traffic": [
+        {
+            "behavior_id": "1",
+            "ENG": "Zone violation",
+            "TWN": "禁區偵測",
+            "JPN": "ゾーン違反",
+            "ITL": "Violazione della zona"
+        },
+        {
+            "behavior_id": "2",
+            "ENG": "Parking spot detection",
+            "TWN": "停車格數量偵測",
+            "JPN": "駐車場の検出",
+            "ITL": "Rilevamento del punto di parcheggio"
+        },
+        {
+            "behavior_id": "4",
+            "ENG": "Parking violation",
+            "TWN": "違規停車",
+            "JPN": "駐車違反",
+            "ITL": "Infrazione divieto sosta"
+        },
+        {
+            "behavior_id": "8",
+            "ENG": "Traffic flow",
+            "TWN": "直行偵測",
+            "JPN": "交通流",
+            "ITL": "Flusso di traffico"
+        },
+        {
+            "behavior_id": "16",
+            "ENG": "Turn left",
+            "TWN": "左轉偵測",
+            "JPN": "左折してください",
+            "ITL": "Gira a sinistra"
+        },
+        {
+            "behavior_id": "32",
+            "ENG": "Turn right",
+            "TWN": "右轉偵測",
+            "JPN": "右に曲がる",
+            "ITL": "Girare a destra"
+        },
+        {
+            "behavior_id": "64",
+            "ENG": "Wrong way",
+            "TWN": "逆向偵測",
+            "JPN": "進入禁止",
+            "ITL": "Senso vietato"
+        },
+        {
+            "behavior_id": "128",
+            "ENG": "Turn left violation",
+            "TWN": "違規左轉",
+            "JPN": "左折違反",
+            "ITL": "Svoltare a sinistra violazione"
+        },
+        {
+            "behavior_id": "256",
+            "ENG": "Turn right violation",
+            "TWN": "違規右轉",
+            "JPN": "右折違反",
+            "ITL": "Svolta a destra violazione"
+        },
+        {
+            "behavior_id": "512",
+            "ENG": "U-turn violations",
+            "TWN": "違規迴轉",
+            "JPN": "Uターン違反",
+            "ITL": "Violazioni di inversione di marcia"
+        },
+        {
+            "behavior_id": "1024",
+            "ENG": "Run the red light (Straight)",
+            "TWN": "闖紅燈偵測",
+            "JPN": "赤信号を実行します（ストレート）",
+            "ITL": "Esegui la luce rossa (dritto)"
+        },
+        {
+            "behavior_id": "2048",
+            "ENG": "Run the red light (left)",
+            "TWN": "紅燈左轉",
+            "JPN": "赤信号を実行します（左）",
+            "ITL": "Esegui la luce rossa (sinistra)"
+        },
+        {
+            "behavior_id": "4096",
+            "ENG": "Run the red light (right)",
+            "TWN": "紅燈右轉",
+            "JPN": "赤信号を実行します（右）",
+            "ITL": "Esegui la luce rossa (a destra)"
+        },
+        {
+            "behavior_id": "16384",
+            "ENG": "Speeding",
+            "TWN": "超速偵測",
+            "JPN": "スピード違反",
+            "ITL": "Accelerare"
+        },
+        {
+            "behavior_id": "16777216",
+            "ENG": "Queuing detection",
+            "TWN": "排隊偵測",
+            "JPN": "キューイング検出",
+            "ITL": "Rilevamento delle code"
+        }
+    ],
+    "Generic": [
+        {
+            "behavior_id": "131072",
+            "ENG": "Unattended object",
+            "TWN": "遺留物",
+            "JPN": "無人オブジェクト",
+            "ITL": "Oggetto incustodito"
+        },
+        {
+            "behavior_id": "262144",
+            "ENG": "Missing object",
+            "TWN": "遺失物",
+            "JPN": "不足しているオブジェクト",
+            "ITL": "Oggetto mancante"
+        },
+        {
+            "behavior_id": "16777216",
+            "ENG": "Crowd detection",
+            "TWN": "排隊偵測",
+            "JPN": "群衆の検出",
+            "ITL": "Rilevamento della folla"
+        },
+        {
+            "behavior_id": "4",
+            "ENG": "Detection zone ",
+            "TWN": "警戒測區",
+            "JPN": "検出ゾーン",
+            "ITL": "Zona di rilevamento"
+        },
+        {
+            "behavior_id": "8",
+            "ENG": "Object counting",
+            "TWN": "直行偵測",
+            "JPN": "オブジェクトのカウント",
+            "ITL": "Conteggio oggetti"
+        },
+        {
+            "behavior_id": "8192",
+            "ENG": "Loitering detection ",
+            "TWN": "閒晃偵測",
+            "JPN": "浮浪の検出",
+            "ITL": "Rilevamento del vagabondaggio"
+        }
+    ]
+}

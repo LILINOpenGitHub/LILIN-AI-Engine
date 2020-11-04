@@ -1,0 +1,18 @@
+﻿{
+    "AIFIRE": [
+        {
+            "class_id": "111",
+            "ENG": "Fire",
+            "TWN": "偵火",
+            "JPN": "火",
+            "ITL": "Fuoco"
+        },
+        {
+            "class_id": "112",
+            "ENG": "Smoke",
+            "TWN": "偵煙",
+            "JPN": "煙",
+            "ITL": "Fumo"
+        }
+    ]
+}
