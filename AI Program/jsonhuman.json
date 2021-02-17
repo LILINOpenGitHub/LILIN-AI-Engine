@@ -1,21 +1,21 @@
 ﻿{
     "AIHuman": [
         {
-            "class_id": "88",
+            "class_id": "80",
             "ENG": "No fask",
             "TWN": "沒戴口罩",
             "JPN": "ファスクなし",
             "ITL": "No fask"
         },
         {
-            "class_id": "89",
+            "class_id": "81",
             "ENG": "Half mask",
             "TWN": "半戴口罩",
             "JPN": "ハーフマスク",
             "ITL": "Mezza maschera"
         },
         {
-            "class_id": "90",
+            "class_id": "82",
             "ENG": "Mask",
             "TWN": "戴口罩",
             "JPN": "マスク",
