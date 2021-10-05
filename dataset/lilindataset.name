@@ -925,18 +925,18 @@
         },
         {
             "class_id": "105",
-            "ENG": "Fire ",
-            "TWN": "火",
-            "JPN": "火",
-            "ITL": "Fuoco",
+            "ENG": "Fire detection",
+            "TWN": "偵火",
+            "JPN": "火焰走照",
+            "ITL": "Rilevazione incendi",
             "AI Model": "Fire / Smoke"
         },
         {
             "class_id": "106",
-            "ENG": "Smoke",
-            "TWN": "抽煙",
-            "JPN": "煙",
-            "ITL": "Fumo",
+            "ENG": "Smoke detectio",
+            "TWN": "偵煙",
+            "JPN": "スモッグ",
+            "ITL": "Rilevamento di fumo",
             "AI Model": "Fire / Smoke"
         },
         {
