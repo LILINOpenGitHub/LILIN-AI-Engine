@@ -1,0 +1,9 @@
+D:\Project\LILIN_Aida_Test\bin\Release\LILIN_Aida_Test.exe.config
+D:\Project\LILIN_Aida_Test\bin\Release\LILIN_Aida_Test.exe
+D:\Project\LILIN_Aida_Test\bin\Release\LILIN_Aida_Test.pdb
+D:\Project\LILIN_Aida_Test\obj\Release\LILIN_Aida_Test.AIdaSendImage.resources
+D:\Project\LILIN_Aida_Test\obj\Release\LILIN_Aida_Test.Properties.Resources.resources
+D:\Project\LILIN_Aida_Test\obj\Release\LILIN_Aida_Test.csproj.GenerateResource.cache
+D:\Project\LILIN_Aida_Test\obj\Release\LILIN_Aida_Test.csproj.CoreCompileInputs.cache
+D:\Project\LILIN_Aida_Test\obj\Release\LILIN_Aida_Test.exe
+D:\Project\LILIN_Aida_Test\obj\Release\LILIN_Aida_Test.pdb
