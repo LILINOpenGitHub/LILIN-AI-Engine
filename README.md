@@ -65,4 +65,9 @@ The result:
 
 Visit http://www.meritlilin.com/en/solution/LSolution_AiEngine for more detail.
 
+# How to launch Gynet
+In your DOS prompt, please type the following command for launching Gynet.
+
+"C:\Program Files\AI Engine\gynet.exe server -http_port 8592"
+
 
