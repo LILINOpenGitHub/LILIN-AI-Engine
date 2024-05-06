@@ -70,4 +70,9 @@ In your DOS prompt, please type the following command for launching Gynet.
 
 "C:\Program Files\AI Engine\gynet.exe server -http_port 8592"
 
+# How to launch WatchDog program
+In MFC, please use the following command for openning the watch dog program.  The watch dog program is to monitor Gynet.
+
+ShellExecute(NULL, _T("open"), _T("AIEngineWatchdog.exe"), _T(""), _T("watchdog"), SW_MINIMIZE);
+
 
