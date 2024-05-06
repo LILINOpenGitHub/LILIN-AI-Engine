@@ -68,11 +68,19 @@ Visit http://www.meritlilin.com/en/solution/LSolution_AiEngine for more detail.
 # How to launch Gynet
 In your DOS prompt, please type the following command for launching Gynet.
 
+```
 "C:\Program Files\AI Engine\gynet.exe server -http_port 8592"
+```
+Shell Script
+```
+ShellExecute(GetSafeHwnd(), _T("open"), _T("C:\\Program Files\\AI Engine\\gynet.exe"), m_parameters, NULL/*working directory*/, SW_HIDE);
+```
 
 # How to launch WatchDog program
 In MFC, please use the following command for openning the watch dog program.  The watch dog program is to monitor Gynet.
 
+```
 ShellExecute(NULL, _T("open"), _T("AIEngineWatchdog.exe"), _T(""), _T("watchdog"), SW_MINIMIZE);
+```
 
 
